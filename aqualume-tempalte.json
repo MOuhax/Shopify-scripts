@@ -1,0 +1,723 @@
+{
+  "sections": {
+    "main": {
+      "type": "product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "text_size": 9,
+            "price_size": 7,
+            "product_show_vendor": false,
+            "product_show_cutline": true,
+            "show_rating": true,
+            "show_rating_count": false
+          }
+        },
+        "a627288e-cec4-4687-935a-798ef12c3754": {
+          "type": "icon",
+          "disabled": true,
+          "settings": {
+            "icon_name": "icon-dollar",
+            "icon_color": "#f9c022",
+            "text": "<p>{{ product.metafields.custom.product_promo | metafield_tag }}<\/p>"
+          }
+        },
+        "variants": {
+          "type": "variant-selectors",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "subscriptions": {
+          "type": "subscription",
+          "settings": {
+            "subscriptions_enable_selectors": true
+          }
+        },
+        "quantity": {
+          "type": "quantity",
+          "settings": {
+            "show_quantity": true
+          }
+        },
+        "sizes-remaining": {
+          "type": "size-remaining",
+          "disabled": true,
+          "settings": {
+            "info_page": "",
+            "show_remaining": true,
+            "show_remaining_style": "low",
+            "countdown": 10
+          }
+        },
+        "buttons": {
+          "type": "add-buttons",
+          "settings": {
+            "enable_payment_button": false
+          }
+        },
+        "pickup": {
+          "type": "pickup",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "style": "tabs",
+            "enable_description": false,
+            "read_more": false,
+            "icon_description": "",
+            "description_expanded": true,
+            "title_1": "SPEC",
+            "icon_name_1": "",
+            "raw_content_1": "<p>This content type will accept <strong>rich text<\/strong> to help with adding styles and links to additional pages or content. Use this to add supplementary information to help your buyers.<\/p>",
+            "title_2": "PRESS",
+            "icon_name_2": "",
+            "raw_content_2": "<p>sasasas<\/p>",
+            "title_3": "",
+            "icon_name_3": "",
+            "raw_content_3": "",
+            "title_4": "",
+            "icon_name_4": "",
+            "raw_content_4": "",
+            "title_5": "",
+            "icon_name_5": "",
+            "raw_content_5": ""
+          }
+        },
+        "upsell": {
+          "type": "upsell",
+          "disabled": true,
+          "settings": {
+            "product": ""
+          }
+        },
+        "sharing": {
+          "type": "sharing",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "5522631e-1bd7-466c-9f28-65f158224114": {
+          "type": "liquid",
+          "settings": {
+            "custom_liquid": "<div data-rebuy-id=\"94488\" data-rebuy-shopify-product-ids=\"{{ product.id }}\"><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "a627288e-cec4-4687-935a-798ef12c3754",
+        "variants",
+        "subscriptions",
+        "quantity",
+        "sizes-remaining",
+        "buttons",
+        "pickup",
+        "description",
+        "upsell",
+        "sharing",
+        "5522631e-1bd7-466c-9f28-65f158224114"
+      ],
+      "settings": {
+        "layout": "thumbnails-left@slides",
+        "image_width": "half",
+        "image_spacing": 10,
+        "align": "left",
+        "product_breadcrumbs": true,
+        "bg": "palette--light bg--accent",
+        "mobile_layout": "carousel",
+        "enable_video_looping": true,
+        "zoom_enable": true,
+        "alt_text_enable": true,
+        "alt_text_icon": "icon-ruler",
+        "width": "wrapper",
+        "padding_top": 24,
+        "padding_bottom": 36
+      }
+    },
+    "aeec5376-b927-4995-a286-3f36b869dca0": {
+      "type": "section-html",
+      "disabled": true,
+      "settings": {
+        "html": "<div class=\"wrapper section-padding\">\n    <div class=\"wrapper section-padding\">\n    <div class=\"brick__section brick--2   use_screen_one_half brick__section--reverse\" data-overflow-wrapper=\"\" style=\"min-height: 387px;\">\n    \n      \n<div class=\"brick__block\" data-prevent-transparent-header=\"\" data-shopify-editor-block=\"{&quot;id&quot;:&quot;f1607125-b902-4452-a45d-913919d4135d&quot;,&quot;type&quot;:&quot;text&quot;}\">\n            <div class=\"brick__block__text brick__block__text--transparent text--neutral\" data-overflow-frame=\"\" style=\"--bg: ; min-height: calc(363px + var(--menu-height));\">\n              <div class=\"brick__block__text__inner\">\n                <div class=\"text__standard text-left\" data-overflow-content=\"\" style=\"\n    max-width: 400px;\n\">\n                  \n\n                  \n\n                  \n                    <h2 class=\"h2 standard__heading\" data-aos=\"hero\" data-aos-anchor=\"[data-section-id='template--20370001101103__00c42767-67a6-42b8-874c-c9161c947307']\" data-aos-order=\"2\" data-live-text-setting=\"section.template--20370001101103__00c42767-67a6-42b8-874c-c9161c947307.block.f1607125-b902-4452-a45d-913919d4135d.title\">\n                      Visibility Unleashed\n                    <\/h2>\n                  \n\n                  \n                    \n                    <div class=\"standard__rte body-size-5 columns--1 \" data-aos=\"hero\" data-aos-anchor=\"[data-section-id='template--20370001101103__00c42767-67a6-42b8-874c-c9161c947307']\" data-aos-order=\"3\" data-live-text-setting=\"section.template--20370001101103__00c42767-67a6-42b8-874c-c9161c947307.block.f1607125-b902-4452-a45d-913919d4135d.text\">\n                      <p>Dive deeper into unexplored territories with AquaLume. Featuring a high-visibility luminous dial, this timepiece ensures nothing stays hidden in the dark. Experience underwater clarity like never before with AquaLume, the ultimate tool for deep sea exploration.<\/p>\n                    <\/div>\n                  \n\n                  \n\n                <\/div>\n              <\/div>\n            <\/div><img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/530A2575_2000_x_2500_1_360x.png?v=1691151380 360w\" style=\"\n    position: absolute;\n    top: 100px;\n    z-index: 28;\n    max-width: 250px;\n    right: -100px;\n\" class=\"custom-absolute-image\">\n          <\/div>\n\n        \n    \n      \n          <div class=\"brick__block\" data-overflow-frame=\"\" data-shopify-editor-block=\"{&quot;id&quot;:&quot;15962829-083f-434c-8a48-52b21a60a135&quot;,&quot;type&quot;:&quot;image&quot;}\" style=\"min-height: calc(96px + var(--menu-height)); position: relative;\">\n            <div class=\"brick__block__image text--white\" style=\"\n    z-index: 0;\n\">\n              <div class=\"hero__content__wrapper align--middle-center\">\n                <div class=\"hero__content \" data-overflow-content=\"\">\n\n                  \n<\/div><\/div>\n\n              \n                <div class=\"image-overlay\" style=\"--bg:#000;opacity:0.0;\"><\/div>\n              \n<!-- \/snippets\/hero.liquid -->\n\n\n<div class=\"image__hero__frame fade-in-child use_screen_one_half \" data-overflow-background=\"\" style=\"min-height: calc(96px + var(--menu-height));\">\n\n  <div class=\"image__hero__pane\">\n    <div class=\"image__hero__scale\">\n      <div class=\"background-size-cover background-size-cover--fade-in lazyloaded\" data-bgset=\"\n\/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_180x.png?v=1691151381 180w 136h,\n    \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_360x.png?v=1691151381 360w 271h,\n    \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_540x.png?v=1691151381 540w 407h,\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4.png?v=1691151381 668w 503h\" style=\"background-position: center center; background-image: url(&quot;https:\/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_540x.png?v=1691151381&quot;);\" role=\"img\" aria-label=\"\"><picture style=\"display: none;\"><source data-srcset=\" \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_180x.png?v=1691151381 180w 136h, \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_360x.png?v=1691151381 360w 271h, \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_540x.png?v=1691151381 540w 407h, \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4.png?v=1691151381 668w 503h\" sizes=\"442.05882352941177px\" srcset=\" \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_180x.png?v=1691151381 180w 136h, \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_360x.png?v=1691151381 360w 271h, \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_540x.png?v=1691151381 540w 407h, \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4.png?v=1691151381 668w 503h\"><img alt=\"\" class=\"lazyautosizes lazyloaded ls-is-cached\" data-sizes=\"auto\" data-parent-fit=\"cover\" sizes=\"442.05882352941177px\"><\/picture><\/div>\n    <\/div>\n  <\/div>\n\n  <noscript>\n    <img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_720x.png?v=1691151381\" alt=\"\" class=\"responsive-wide-image\" style=\"object-position: center center;\"\/>\n  <\/noscript>\n<\/div>\n\n<\/div>\n          <\/div>\n\n        \n    \n  <\/div>\n  <\/div>\n  <\/div>",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "585fe326-47ea-4033-bce0-92ef862749ba": {
+      "type": "section-hero",
+      "blocks": {
+        "template--20370001101103__585fe326-47ea-4033-bce0-92ef862749ba-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "<p>PLUNGE 500M DEEP<\/p>",
+            "text_size": 10
+          }
+        },
+        "template--20370001101103__585fe326-47ea-4033-bce0-92ef862749ba-text-1": {
+          "type": "text",
+          "settings": {
+            "richtext": "<p>Venture into the ocean's depths with AquaLume. Experience marine exploration like never before.<\/p>",
+            "text_size": 6
+          }
+        }
+      },
+      "block_order": [
+        "template--20370001101103__585fe326-47ea-4033-bce0-92ef862749ba-heading-1",
+        "template--20370001101103__585fe326-47ea-4033-bce0-92ef862749ba-text-1"
+      ],
+      "custom_css": [
+        ".hero__title p {text-transform: initial;}",
+        ".hero__description {text-transform: uppercase;}",
+        ".background-size-cover {background-position-x: 85% !important;}",
+        "@media screen and (max-width: 670px) {.image-overlay {opacity: 0.5 !important; }}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banner_tst_3_3.png",
+        "bg_position": "center-center",
+        "height": "use_image",
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "enable_overlay_text": false,
+        "content_width": 2000,
+        "text_align": "align--middle-left",
+        "text_color": "text--white",
+        "color_bg": "hero__content--transparent",
+        "width": "wrapper--none",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "4391810e-69a7-4101-8a8e-eeb98273d091": {
+      "type": "section-html",
+      "settings": {
+        "html": "<div class=\"\">\n    \n\n\n\n\n\n\n\n<div>\n    <div class=\"brick__section brick--2   use_screen_one_half brick__section--reverse\" data-overflow-wrapper=\"\" style=\"min-height: 387px;\">\n    \n      \n<div class=\"brick__block 345346DFD\" data-prevent-transparent-header=\"\" data-shopify-editor-block=\"{&quot;id&quot;:&quot;f1607125-b902-4452-a45d-913919d4135d&quot;,&quot;type&quot;:&quot;text&quot;}\">\n            <div class=\"brick__block__text brick__block__text--transparent text--neutral\" data-overflow-frame=\"\" style=\"--bg: ; min-height: 385px;\">\n              <div class=\"brick__block__text__inner\">\n                <div class=\"text__standard text-left\" data-overflow-content=\"\" style=\"\n    max-width: 400px;\n\">\n                  \n\n                  \n\n                  \n                    <h2 class=\"h2 standard__heading\" data-aos=\"hero\" data-aos-anchor=\"[data-section-id='template--20370001101103__00c42767-67a6-42b8-874c-c9161c947307']\" data-aos-order=\"2\" data-live-text-setting=\"section.template--20370001101103__00c42767-67a6-42b8-874c-c9161c947307.block.f1607125-b902-4452-a45d-913919d4135d.title\">\n                      Visibility Unleashed\n                    <\/h2>\n                  \n\n                  \n                    \n                    <div class=\"standard__rte body-size-5 columns--1 \" data-aos=\"hero\" data-aos-anchor=\"[data-section-id='template--20370001101103__00c42767-67a6-42b8-874c-c9161c947307']\" data-aos-order=\"3\" data-live-text-setting=\"section.template--20370001101103__00c42767-67a6-42b8-874c-c9161c947307.block.f1607125-b902-4452-a45d-913919d4135d.text\">\n                      <p>Dive deeper into unexplored territories with AquaLume. Featuring a high-visibility luminous dial, this timepiece ensures nothing stays hidden in the dark. Experience underwater clarity like never before with AquaLume, the ultimate tool for deep sea exploration.<\/p>\n                    <\/div>\n                  \n\n                  \n\n                <\/div>\n              <\/div>\n            <\/div>\n            <div class=\"custom-absolute-image\">\n            <img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/530A2575_2000_x_2500_1_360x.png?v=1691151380 360w\" class=\"my-imagex\">\n            <\/div>\n          <\/div>\n\n        \n    \n      \n          <div class=\"brick__block\" data-overflow-frame=\"\" data-shopify-editor-block=\"{&quot;id&quot;:&quot;15962829-083f-434c-8a48-52b21a60a135&quot;,&quot;type&quot;:&quot;image&quot;}\" style=\"min-height: 385px; position: relative;\">\n            <div class=\"brick__block__image text--white\" style=\"\n    z-index: 0;\n\">\n              <div class=\"hero__content__wrapper align--middle-center\">\n                <div class=\"hero__content \" data-overflow-content=\"\">\n\n                  \n<\/div><\/div>\n\n              \n                <div class=\"image-overlay\" style=\"--bg:#000;opacity:0.0;\"><\/div>\n              \n<!-- \/snippets\/hero.liquid -->\n\n\n<div class=\"image__hero__frame fade-in-child use_screen_one_half \" data-overflow-background=\"\" style=\"min-height: 385px;\">\n\n  <div class=\"image__hero__pane\">\n    <div class=\"image__hero__scale\">\n      <div class=\"background-size-cover background-size-cover--fade-in lazyloaded\" data-bgset=\"\n\/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_180x.png?v=1691151381 180w 136h,\n    \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_360x.png?v=1691151381 360w 271h,\n    \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_540x.png?v=1691151381 540w 407h,\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4.png?v=1691151381 668w 503h\" style=\"background-position: center center; background-image: url(&quot;https:\/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_540x.png?v=1691151381&quot;);\" role=\"img\" aria-label=\"\"><picture style=\"display: none;\"><source data-srcset=\" \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_180x.png?v=1691151381 180w 136h, \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_360x.png?v=1691151381 360w 271h, \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_540x.png?v=1691151381 540w 407h, \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4.png?v=1691151381 668w 503h\" sizes=\"575px\" srcset=\" \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_180x.png?v=1691151381 180w 136h, \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_360x.png?v=1691151381 360w 271h, \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_540x.png?v=1691151381 540w 407h, \/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4.png?v=1691151381 668w 503h\"><img alt=\"\" class=\"lazyautosizes lazyloaded ls-is-cached\" data-sizes=\"auto\" data-parent-fit=\"cover\" sizes=\"575px\"><\/picture><\/div>\n    <\/div>\n  <\/div>\n\n  <noscript>\n    <img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0689\/1703\/5311\/files\/Mask_group_4_720x.png?v=1691151381\" alt=\"\" class=\"responsive-wide-image\" style=\"object-position: center center;\"\/>\n  <\/noscript>\n\n\n\n\n\n<\/div>\n\n<\/div>\n          <\/div>\n\n        \n    \n  <\/div>\n  <\/div>\n\n<style>\n.custom-absolute-image {\n    position: absolute;\n    top: 100px;\n    z-index: 35;\n    max-width: 250px;\n    right: -135px;\n    border: 100px;\n}\n.custom-absolute-image img {\n    max-width: 250px;\n}\n.custom-absolute-image::after {\n    content: \"\";\n    position: absolute;\n    bottom: 100px;\n    left: 46px;\n    width: 60%;\n    height: 46px;\n    border-radius: 31px;\n    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.5));\n    pointer-events: none;\n    box-shadow: 0px 130px 30px rgba(0, 0, 0, 0.3);\n}\n\n@media only screen and (min-width: 671px) {\ndiv#shopify-section-template--20370001101103__image-with-text {\n    margin-top: 40px;\n}\n}\n@media screen and (max-width: 670px) {\n#shopify-section-template--20370001101103__4391810e-69a7-4101-8a8e-eeb98273d091 .text__standard.text-left {\n    margin-top: 175px;\n}\n\n.wrapper.section-padding {\n    padding-bottom: 15px;\n}\n#shopify-section-template--2037 \n.text__standard.text-left {\n    padding-bottom: 0px;\n    margin-top: 160px;\n}\n.custom-absolute-image {\n    position: absolute;\n    top: -250px;\n    z-index: 35;\n    max-width: 250px;\n    right: calc(50% - 124px);\n    border: 100px;\n}\n}\n<\/style><\/div>",
+        "width": "wrapper",
+        "padding_top": 62,
+        "padding_bottom": 84
+      }
+    },
+    "image-with-text": {
+      "type": "section-double",
+      "blocks": {
+        "image": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group_aa5aae12-c0ce-4f7f-ae43-14d481ee85e1.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "Style Meets Brilliance",
+            "text": "<p>Underwater adventure gets a radiant makeover with AquaLume. Its glowing dial, besides being a functional wonder, also adds a mesmerizing aesthetic to your timepiece. Whether you're swimming among coral reefs or simply showing off your style, let AquaLume's dial be your radiant companion.<\/p>",
+            "font_size": 4,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "https:\/\/undone.com\/products\/aqualume-black-rubber",
+            "button_color": "btn--neutral",
+            "button_style": "btn btn--long uppercase",
+            "text_color": "text--neutral",
+            "bg_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "image",
+        "text"
+      ],
+      "custom_css": [
+        "a {background-color: #ff6d40; padding: 0.8rem 1.6rem;}",
+        "@media screen and (max-width: 670px) {a {padding: 15px; }}"
+      ],
+      "settings": {
+        "height": "image-height",
+        "brick_gutter": 14,
+        "borders": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 16
+      }
+    },
+    "image-with-text-2": {
+      "type": "section-double",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "kicker": "",
+            "title": "Strap for the Bold",
+            "text": "<p>Meet the Shadow Blaze Strap. A perfect union of Cordura Fabric's durability and Signal Orange Silicone's flexibility. This 100% waterproof strap guarantees both comfort and endurance, whatever your journey may be.<\/p>",
+            "font_size": 4,
+            "text_columns": 1,
+            "align_text": "text-left",
+            "button_text": "",
+            "button_url": "https:\/\/undone.com\/products\/aqualume-white-rubber",
+            "button_color": "btn--neutral",
+            "button_style": "btn btn--long uppercase",
+            "text_color": "text--neutral",
+            "bg_color": ""
+          }
+        },
+        "image": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group_1_b91a12b0-acde-495f-9fb5-8c06cb54cee0.png",
+            "bg_position": "center-center",
+            "overlay_opacity": 0,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "image"
+      ],
+      "custom_css": [
+        "a {background-color: #ff6d40; padding: 0.8rem 1.6rem;}",
+        "@media screen and (max-width: 670px) {a {padding: 15px; }}"
+      ],
+      "settings": {
+        "height": "image-height",
+        "brick_gutter": 16,
+        "borders": false,
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "0b6375fc-1bc7-4782-a404-731facb3a3a6": {
+      "type": "section-custom-content",
+      "disabled": true,
+      "blocks": {
+        "68d4bfd1-8c48-490d-b737-6c1d30ffa6a6": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.custom.detail_3_image.value }}",
+            "bg_position": "center-center",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        },
+        "131b22ea-a0b1-43d1-972a-dca8c8cc8649": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.custom.detail_4_image.value }}",
+            "bg_position": "center-center",
+            "overlay_opacity": 15,
+            "overlay_color": "#000000",
+            "enable_overlay_text": false,
+            "kicker": "",
+            "title": "",
+            "richtext": "",
+            "text_align": "align--middle-center",
+            "text_color": "text--white",
+            "link_text": "",
+            "link": "",
+            "button_color": "btn--white",
+            "button_style": "btn uppercase"
+          }
+        }
+      },
+      "block_order": [
+        "68d4bfd1-8c48-490d-b737-6c1d30ffa6a6",
+        "131b22ea-a0b1-43d1-972a-dca8c8cc8649"
+      ],
+      "settings": {
+        "height": "image-height",
+        "brick_gutter": 16,
+        "bg_color": "",
+        "borders": false,
+        "width": "wrapper",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "6c879690-d2f8-4684-a69e-ebc0f8ed769c": {
+      "type": "collection-split",
+      "disabled": true,
+      "settings": {
+        "collection": "",
+        "product_list": [
+
+        ],
+        "bg_position": "center-center",
+        "sticky_image_enable": true,
+        "swap": false,
+        "overlay_opacity": 15,
+        "overlay_color": "#000000",
+        "kicker": "Introducing",
+        "heading": "Featured products",
+        "text_color": "text--white",
+        "link_text": "View products",
+        "link": "",
+        "button_color": "btn--white",
+        "button_style": "btn",
+        "grid_large": 2,
+        "grid_small": 1.2,
+        "limit": 10,
+        "bg": "palette--light bg--neutral",
+        "video_link_bg": "",
+        "object_position": "center-center",
+        "width": "wrapper--none",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ed80302c-0310-43b2-bc83-c0f5cbdb9728": {
+      "type": "section-richtext",
+      "blocks": {
+        "template--19941078499631__ed80302c-0310-43b2-bc83-c0f5cbdb9728-kicker-1": {
+          "type": "kicker",
+          "disabled": true,
+          "settings": {
+            "kicker": "<p>Introducing<\/p>",
+            "enable_caps": true,
+            "enable_line": true,
+            "text_size": 3
+          }
+        },
+        "template--19941078499631__ed80302c-0310-43b2-bc83-c0f5cbdb9728-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Your Watch, Your Style<\/strong><\/p>",
+            "text_size": 8
+          }
+        },
+        "template--19941078499631__ed80302c-0310-43b2-bc83-c0f5cbdb9728-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Expand your style options with AquaLume. Now available with white and black rubber straps. Choose the variant that <\/p><p>suits your style best and elevate your timepiece game with AquaLume.<\/p>",
+            "italic_style": false,
+            "text_size": 4,
+            "text_columns": 1
+          }
+        },
+        "template--19941078499631__ed80302c-0310-43b2-bc83-c0f5cbdb9728-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link_text_1": "Shop all",
+            "link_1": "shopify:\/\/collections\/all",
+            "button_size_1": "btn--medium",
+            "button_style_1": "caps--link",
+            "button_color_1": "btn--neutral",
+            "link_text_2": "",
+            "link_2": "",
+            "button_size_2": "btn--medium",
+            "button_style_2": "caps--link",
+            "button_color_2": "btn--neutral",
+            "link_text_3": "",
+            "link_3": "",
+            "button_size_3": "btn--long",
+            "button_style_3": "caps--link",
+            "button_color_3": "btn--white"
+          }
+        }
+      },
+      "block_order": [
+        "template--19941078499631__ed80302c-0310-43b2-bc83-c0f5cbdb9728-kicker-1",
+        "template--19941078499631__ed80302c-0310-43b2-bc83-c0f5cbdb9728-heading-1",
+        "template--19941078499631__ed80302c-0310-43b2-bc83-c0f5cbdb9728-text-1",
+        "template--19941078499631__ed80302c-0310-43b2-bc83-c0f5cbdb9728-button-1"
+      ],
+      "settings": {
+        "align_text": "text-center",
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "content_width": 2000,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a37355e5-a013-42f2-ab99-8fbbe954b71d": {
+      "type": "section-columns",
+      "blocks": {
+        "template--20370001101103__a37355e5-a013-42f2-ab99-8fbbe954b71d-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/1_3_1.png",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_label": "CHOOSE WHITE ",
+            "button_link": "https:\/\/undone.com\/products\/aqualume-white-rubber",
+            "button_color": "btn--neutral",
+            "button_style": "btn uppercase",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        },
+        "template--20370001101103__a37355e5-a013-42f2-ab99-8fbbe954b71d-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/530A2575_800x1000_f6fc1cea-c203-4f5c-ba18-336b5785c293.png",
+            "bg_position": "center-center",
+            "title": "",
+            "text": "",
+            "button_label": "Choose Black",
+            "button_link": "https:\/\/undone.com\/products\/aqualume-black-rubber",
+            "button_color": "btn--neutral",
+            "button_style": "btn uppercase",
+            "enable_video": false,
+            "video_link": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"
+          }
+        }
+      },
+      "block_order": [
+        "template--20370001101103__a37355e5-a013-42f2-ab99-8fbbe954b71d-text_block-1",
+        "template--20370001101103__a37355e5-a013-42f2-ab99-8fbbe954b71d-text_block-2"
+      ],
+      "custom_css": [
+        ".image__fill {background-image: none !important;}",
+        "a {background-color: #ff6d40;}",
+        ".index__column.grid__item {max-width: 400px;}",
+        ".wrapper > div {justify-content: center;}",
+        "@media screen and (max-width: 670px) {a {padding: 15px; }}",
+        "@media only screen and (min-width: 671px) {.wrapper {padding-top: 0px; padding-bottom: 0px; }}"
+      ],
+      "settings": {
+        "title": "",
+        "bg": "palette--light bg--neutral",
+        "align_text": "text-center",
+        "scale_image": false,
+        "aspect_ratio": 0.8,
+        "grid_large": 2,
+        "grid_medium": 2,
+        "grid_mobile": 2,
+        "progress_bar_mobile": false,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "bd4998d0-5b71-44b2-84bd-0253c8689ef1": {
+      "type": "section-gallery",
+      "blocks": {
+        "template--19941078499631__bd4998d0-5b71-44b2-84bd-0253c8689ef1-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3453454_1.png",
+            "bg_position": "center-center",
+            "link": ""
+          }
+        },
+        "template--19941078499631__bd4998d0-5b71-44b2-84bd-0253c8689ef1-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mask_group_2_4bc8173d-935c-400a-af75-62912887944c.png",
+            "bg_position": "center-center",
+            "link": ""
+          }
+        },
+        "14564c06-a170-41ff-85d1-097b3e82638d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/34645645.png",
+            "bg_position": "center-center",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19941078499631__bd4998d0-5b71-44b2-84bd-0253c8689ef1-image-1",
+        "template--19941078499631__bd4998d0-5b71-44b2-84bd-0253c8689ef1-image-2",
+        "14564c06-a170-41ff-85d1-097b3e82638d"
+      ],
+      "settings": {
+        "scale_image": false,
+        "aspect_ratio": 0.8,
+        "bg": "palette--light bg--neutral",
+        "add_gutters": true,
+        "progress_bar": "mobile",
+        "grid_large": 2,
+        "grid_medium": 2,
+        "grid_mobile": 1.2,
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "loox-product-reviews-app-section": {
+      "type": "apps",
+      "blocks": {
+        "loox-product-reviews": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "loox-product-reviews"
+      ],
+      "settings": {
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16724193113ab825cf": {
+      "type": "apps",
+      "blocks": {
+        "caf5b937-68c3-4465-b965-cf93408fce10": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+          }
+        },
+        "a94302cf-51ec-4552-b0f0-1dbb294b5fe9": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "disabled": true,
+          "settings": {
+            "stars_fill_color": "#000000",
+            "star_size": 15,
+            "text_align": "center",
+            "product": "{{product}}",
+            "stars_text_empty": "No reviews"
+          }
+        }
+      },
+      "block_order": [
+        "caf5b937-68c3-4465-b965-cf93408fce10",
+        "a94302cf-51ec-4552-b0f0-1dbb294b5fe9"
+      ],
+      "settings": {
+        "text_color": "text--neutral",
+        "bg": "palette--light bg--neutral",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "reviews": {
+      "type": "reviews",
+      "settings": {
+        "product_reviews_enable": false,
+        "bg": "palette--light bg--accent",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "related": {
+      "type": "related",
+      "settings": {
+        "heading": "MORE YOU MIGHT LIKE",
+        "bg": "palette--light bg--neutral",
+        "grid_large": 4,
+        "grid_medium": 3,
+        "grid_small": 1.2,
+        "related_products_enable": true,
+        "limit": 6,
+        "product_recommendations_heading": "Related products",
+        "show_recently_viewed": true,
+        "product_recently_limit": 6,
+        "product_recently_minimum": 4,
+        "product_recently_heading": "Recently viewed",
+        "width": "wrapper",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2a148daf-66bc-443e-8e9d-e49b6c858da1": {
+      "type": "section-announcement",
+      "disabled": true,
+      "blocks": {
+        "template--17130183524655__2a148daf-66bc-443e-8e9d-e49b6c858da1-1671631158375c4ac0-0": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Make an announcement<\/strong> | More info<\/p>"
+          }
+        },
+        "template--17130183524655__2a148daf-66bc-443e-8e9d-e49b6c858da1-1671631158375c4ac0-1": {
+          "type": "icon_block",
+          "settings": {
+            "text": "<p><strong>Our pledge<\/strong> | Learn more<\/p>",
+            "icon_name": "icon-leaf",
+            "icon_color": "#aaaaaa",
+            "icon_alt_width": 33
+          }
+        }
+      },
+      "block_order": [
+        "template--17130183524655__2a148daf-66bc-443e-8e9d-e49b6c858da1-1671631158375c4ac0-0",
+        "template--17130183524655__2a148daf-66bc-443e-8e9d-e49b6c858da1-1671631158375c4ac0-1"
+      ],
+      "settings": {
+        "bg_color": "#f7f7f7",
+        "color": "#545454",
+        "text_size": 7,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "aeec5376-b927-4995-a286-3f36b869dca0",
+    "585fe326-47ea-4033-bce0-92ef862749ba",
+    "4391810e-69a7-4101-8a8e-eeb98273d091",
+    "image-with-text",
+    "image-with-text-2",
+    "0b6375fc-1bc7-4782-a404-731facb3a3a6",
+    "6c879690-d2f8-4684-a69e-ebc0f8ed769c",
+    "ed80302c-0310-43b2-bc83-c0f5cbdb9728",
+    "a37355e5-a013-42f2-ab99-8fbbe954b71d",
+    "bd4998d0-5b71-44b2-84bd-0253c8689ef1",
+    "loox-product-reviews-app-section",
+    "16724193113ab825cf",
+    "reviews",
+    "related",
+    "2a148daf-66bc-443e-8e9d-e49b6c858da1"
+  ]
+}
